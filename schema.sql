@@ -53,4 +53,10 @@ CREATE TABLE titles (
     FOREIGN KEY (emp_no) REFERENCES employees (emp_no),
     PRIMARY KEY (emp_no, title, from_date)
 );
+DROP TABLE dept_emp CASCADE;
+SELECT * FROM employees;
+SELECT * FROM salaries;
+SELECT * FROM titles;
 SELECT * FROM departments;
+SELECT * FROM dept_manager;
+SELECT * FROM dept_emp;
