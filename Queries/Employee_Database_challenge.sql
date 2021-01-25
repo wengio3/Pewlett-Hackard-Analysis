@@ -23,22 +23,18 @@ ORDER BY e.emp_no;
 -- 8) Copy the query from the Employee_Challenge_starter_code.sql and add it to your Employee_Database_challenge.sql file.
 -- 9) Retrieve the employee number, first and last name, and title columns from the Retirement Titles table.
 -- 10) Use the DISTINCT ON statement to retrieve the first occurrence of the employee number for each set of rows defined by the ON () clause.
-
 -- Use Dictinct with Orderby to remove duplicate rows
 SELECT DISTINCT ON (rt.emp_no) rt.emp_no,
 rt.first_name,
 rt.last_name,
 rt.title
-
 -- 11) Create a Unique Titles table using the INTO clause
 INTO unique_titles
 -- 12) Sort the Unique Titles table in ascending order by the employee number and descending order by the last date (i.e. to_date) of the most recent title.
 FROM retirement_titles as rt
 ORDER BY emp_no, title DESC;
-
 -- 13) Export the Unique Titles table as unique_titles.csv and save it to your Data folder in the Pewlett-Hackard-Analysis folder.
 -- 14) Before you export your table, confirm that it looks like this image
-
 -- 15) Write another query in the Employee_Database_challenge.sql file to retrieve the number of employees by their most recent job title who are about to retirese
 -- 16) 	First, retrieve the number of titles from the Unique Titles table.
 SELECT COUNT (ut.emp_no), ut.title
