@@ -27,11 +27,15 @@ _Eligible for mentorship programs per title_
   _Here are tables for better visualizations_
   
    _Total per title_ 
+  
   ![Screen Shot 2021-01-24 at 7 30 21 PM](https://user-images.githubusercontent.com/74740339/105648664-a4de8680-5e7a-11eb-9177-1a0ae331512b.png)
   
    _Retiring per title_
    
    ![Screen Shot 2021-01-24 at 7 30 21 PM](https://user-images.githubusercontent.com/74740339/105648664-a4de8680-5e7a-11eb-9177-1a0ae331512b.png)
   
-  * Eligible for mentorship programs per title
+  _Eligible for mentorship programs per title_
+  
+  ![Screen Shot 2021-01-24 at 7 34 46 PM](https://user-images.githubusercontent.com/74740339/105648775-406ff700-5e7b-11eb-9b77-5cfc687e79c5.png)
+
 
