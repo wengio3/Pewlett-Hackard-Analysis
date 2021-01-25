@@ -9,10 +9,15 @@ according to the analysis, here are the numbers of retiring employees per title 
 retiring per title 
 
   . 1,761 Assistant Engineers, or 11.64% of total Assistant Engineers in the company 
+  
   . 4,502 Technique Leaders, or 29.70% of total Technique Leaders in the company
+  
   . 8,047 Senior Staff, or 8.67% of total Senior Staff in the company 
+  
   . 14,221 Engineers, or 12.37% of total Engineers in the company 
+  
   . 29,415 Senior Engineers, or 30.09% Senior Engineers  in the company 
+  
   . 32,452 Staff, or 30.22% of total Staff in the company 
 
 Eligible for mentorship programs per title
