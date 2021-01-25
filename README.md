@@ -4,9 +4,9 @@
   Pewlett Hackare is a large company with thousands of employees. Recently baby boomers have started retiring at a rapid rate. For this reason, the company has decided to begin offering retirement packages for those who meet specific criteria and think about the positions that will need to be filled. This analysis determines who will be retiring and how many positions the company needs to fill. 
 
 # Results
-according to the analysis, here are the numbers of retiring employees per title and employees eligible to participate in mentorship programs per title.
+According to the analysis, here are the numbers of retiring employees per title and employees eligible to participate in mentorship programs per title.
 
-*retiring per title*
+_Retiring per title_
 
   * 1,761 Assistant Engineers, or 11.64% of total Assistant Engineers in the company   
   * 4,502 Technique Leaders, or 29.70% of total Technique Leaders in the company 
@@ -15,7 +15,7 @@ according to the analysis, here are the numbers of retiring employees per title 
   * 29,415 Senior Engineers, or 30.09% Senior Engineers  in the company 
   * 32,452 Staff, or 30.22% of total Staff in the company 
 
-*Eligible for mentorship programs per title*
+_Eligible for mentorship programs per title_
 
   * 72  Assistant Engineers, or 0.476%  of total Assistant Engineers in the company   
   * 99 Technique Leader, or 0.65% of total Technique Leaders in the company  
