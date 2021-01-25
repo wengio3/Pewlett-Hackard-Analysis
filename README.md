@@ -28,7 +28,8 @@ _Eligible for mentorship programs per title_
   
    _Total per title_ 
   
-  ![Screen Shot 2021-01-24 at 7 30 21 PM](https://user-images.githubusercontent.com/74740339/105648664-a4de8680-5e7a-11eb-9177-1a0ae331512b.png)
+  <img width="176" alt="Screen Shot 2021-01-24 at 7 38 46 PM" src="https://user-images.githubusercontent.com/74740339/105648884-cbe98800-5e7b-11eb-85ce-b288871ef8c4.png">
+
   
    _Retiring per title_
    
@@ -36,6 +37,7 @@ _Eligible for mentorship programs per title_
   
   _Eligible for mentorship programs per title_
   
-  ![Screen Shot 2021-01-24 at 7 34 46 PM](https://user-images.githubusercontent.com/74740339/105648775-406ff700-5e7b-11eb-9b77-5cfc687e79c5.png)
+  <img width="167" alt="Screen Shot 2021-01-24 at 7 38 15 PM" src="https://user-images.githubusercontent.com/74740339/105648868-bbd1a880-5e7b-11eb-9d88-52765dae7a70.png">
+
 
 
