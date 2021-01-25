@@ -32,7 +32,7 @@ _Eligible for mentorship programs per title_
   
    _Retiring per title_
    
-   ![Screen Shot 2021-01-24 at 7 30 21 PM](https://user-images.githubusercontent.com/74740339/105648664-a4de8680-5e7a-11eb-9177-1a0ae331512b.png)
+  <img width="171" alt="Screen Shot 2021-01-24 at 7 36 43 PM" src="https://user-images.githubusercontent.com/74740339/105648826-89c04680-5e7b-11eb-958f-6e11335fa905.png">
   
   _Eligible for mentorship programs per title_
   
