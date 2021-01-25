@@ -6,7 +6,7 @@
 # Results
 According to the analysis, here are the numbers of retiring employees per title and employees eligible to participate in mentorship programs per title.
 
-*_Retiring per title_*
+_Retiring per title_
 
   * 1,761 Assistant Engineers, or 11.64% of total Assistant Engineers in the company   
   * 4,502 Technique Leaders, or 29.70% of total Technique Leaders in the company 
@@ -23,4 +23,12 @@ _Eligible for mentorship programs per title_
   * 500 Engineers, or 0.43% of total Engineers in the company 
   * 365 Senior Engineers, or 0.37% Senior Engineers  in the company 
   * 441 Staff, or 0.41% of total Staff in the company 
+  
+  _Here are tables for better visualizations_
+  
+  * Total per title 
+  
+  * Retiring per title
+  
+  * Eligible for mentorship programs per title
 
